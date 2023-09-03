@@ -33,4 +33,3 @@ module.exports = {
   },
   ignorePatterns: ['node_modules/**'],
 };
-w;
